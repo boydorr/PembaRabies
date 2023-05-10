@@ -1,5 +1,5 @@
 # Integrating contact tracing and whole-genome sequencing to track the elimination of dog-mediated rabies: an observational and genomic study
-[![DOI](https://zenodo.org/badge/639142413.svg)](https://zenodo.org/badge/latestdoi/639142413)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7922464.svg)](https://doi.org/10.5281/zenodo.7922464)
    
 Authors: Kennedy Lushasi*, Kirstyn Brunker*, Malavika Rajeev, Elaine A Ferguson, Gurdeep Jaswant, Laurie Baker, Roman Biek, Joel Changalucha, Sarah Cleaveland, Anna Czupryna, Anthony R Fooks, Nicodemus Govella, Daniel T Haydon, Paul Johnson, Rudovick Kazwala✢, Tiziana Lembo, Denise Marston, Msanif Masoud, Mathew Maziku, Eberhard Mbunda✢, Geofrey Mchau, Ally Z Mohamed, Emmanuel Mpolya, Chanasa Ngeleja, Kija Ng’abhi, Hesron Nonga, Khasim Omar, Kristyna Rysava, Maganga Sambo, Lwitiko Sikana, Rachel Steenson & Katie Hampson. * Equal contributions, ✢ Deceased
 
