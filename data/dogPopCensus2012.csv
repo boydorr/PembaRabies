@@ -1,0 +1,122 @@
+DISTRICT,WARD_CURRENT,VILLAGE.SHEHIA,HumanFEMALEs_vill,HumanMALES_vill,DogsOwned,DogsStray_estimate1,DogsStray_estimate2,Easting,Northing,Mainland.Island
+Micheweni,Tumbe,Tumbe Mashariki,3153,3081,13,12,12,587373,9452974,Mainland 
+Micheweni,Msuka,Msuka Magharibi,2396,2346,28,16,16,581697,9455530,Mainland 
+Micheweni,Konde,Konde,5002,4667,45,20,20,582840,9453450,Mainland 
+Micheweni,Konde,Tondooni,1580,1420,56,12,12,576016,9454210,Mainland 
+Micheweni,Konde,Makangale,1260,1207,68,36,36,576490,9457016,Mainland 
+Micheweni,Msuka,Msuka Mashariki,2703,2581,30,36,36,581618,9456918,Mainland 
+Micheweni,Mgogoni,Mgogoni,2057,1964,67,12,12,581895,9448128,Mainland 
+Micheweni,Mgogoni,Kinyasini,1792,1407,44,12,12,582189,9444000,Mainland 
+Micheweni,Tumbe,Sizini,2603,2706,18,9,9,589786,9447950,Mainland 
+Micheweni,Micheweni,Shumba Mjini,2580,2663,36,8,8,591541,9450724,Mainland 
+Micheweni,Kiuyu,Kiuyu Mbuyuni,4036,3578,32,14,14,595810,9452948,Mainland 
+Micheweni,Kiuyu Maziwa N'gombe,Maziwa Ng'ombe,4308,2155,20,34,34,595631,9449088,Mainland 
+Micheweni,Micheweni,Majenzi,2046,3540,4,9,9,592287,9449564,Mainland 
+Micheweni,Micheweni,Mjini Wingwi,2423,2215,12,18,18,593054,9447738,Mainland 
+Micheweni,Mgogoni,Finya,2818,1448,90,30,30,584764,9443562,Mainland 
+Micheweni,Wingwi Mapofu,Wingwi Mapofu,2027,1815,12,15,15,589693,9443562,Mainland 
+Micheweni,Shumba Viamboni,Shumba Viamboni,2054,1650,38,10,10,585575,9448914,Mainland 
+Micheweni,Micheweni,Micheweni,4436,4074,15,15,15,592800,9449812,Mainland 
+Micheweni,Kinowe,Chimba,2000,1500,36,11,11,584077,9450418,Mainland 
+Micheweni,Wingwi/Njuguni,Wingwi Njuguni,1591,1113,9,17,17,590040,9444344,Mainland 
+Micheweni,Shengejuu,Mtemani,2309,2230,26,12,12,591424,9443820,Mainland 
+Micheweni,Wingwi/Njuguni,Wingwi Mjananza,1165,900,13,9,9,590941,9442916,Mainland 
+Micheweni,Wingwi/Njuguni,Mlindo,1300,1172,9,4,4,589222,9443412,Mainland 
+Micheweni,Shumba Viamboni,Mihogoni,1403,1251,52,25,25,587613,9446996,Mainland 
+Micheweni,Konde,Kifundi,1542,1609,68,9,9,581475,9450494,Mainland 
+Micheweni,Tumbe ,Tumbe Magharibi,2333,2234,11,10,10,586904,9452644,Mainland 
+Micheweni,Kinowe,Kinowe,2558,2306,28,16,16,584002,9453294,Mainland 
+Wete,Kiuyu,Kiuyu Kigongoni,1884,1949,NA,NA,NA,589681,9429998,Mainland 
+Wete,Gando,Ukunjwi,1795,1848,88,0,0,578583,9443786,Mainland 
+Wete,Ole,Kangagani,1724,1909,NA,NA,NA,591706,9429018,Mainland 
+Wete,Ole,Ole,3624,3547,30,0,0,590059,9426784,Mainland 
+Wete,Kiuyu,Kiuyu Minungwini,2895,2937,7,0,0,589607,9430954,Mainland 
+Wete,utaani,Utaani,2021,1828,NA,NA,NA,581352,9440742,Mainland 
+Wete,Shengejuu,Shengejuu,1176,1256,21,0,0,590074,9438184,Mainland 
+Wete,Mtambwe Kaskazini,Mtambwe Kaskazini,3483,3550,150,0,0,579161,9437310,Mainland 
+Wete,Kipangani,Selem,1344,1191,NA,NA,NA,580048,9440986,Mainland 
+Wete,Pandani,Pandani,2947,2561,31,0,0,586185,9440942,Island
+Wete,Piki,Mzambarauni Takao,1519,1489,NA,NA,NA,585358,9440986,Mainland
+Wete,Kisiwani,Kisiwani,1755,1635,NA,NA,NA,585073,9431428,Mainland
+Wete,M/Mdogo,Kinyikani,1249,1183,16,0,0,587016,9434692,Mainland
+Wete,Kiungoni,Kiungoni,2610,2652,21,0,0,590071,9441184,Mainland
+Wete,Utaani,Limbani,2013,1828,44,0,0,583298,9439736,Mainland
+Wete,Kojani,Kojani,2361,2238,52,14,14,593492,9436440,Island
+Wete,Utaani,Jadida,3014,2999,NA,NA,NA,580934,9440460,Mainland
+Wete,Bobwe,Kizimbani,3022,2876,NA,NA,NA,581233,9441204,Mainland
+Wete,Gando,Bopwe,2969,2669,NA,NA,NA,580572,9441632,Mainland
+Wete,Shengejuu,Chwale,1439,1390,NA,NA,NA,590189,9436460,Mainland
+Wete,Gando,Gando,1630,1757,70,0,0,576886,9448262,Mainland
+Wete,Ole,Mjini Ole,1683,1771,12,0,0,591868,9428308,Mainland
+Wete,Shengejuu,Pembeni,1083,1091,10,0,0,588730,9439948,Mainland
+Wete,Piki,Piki,2186,2321,NA,NA,NA,585348,9434066,Mainland
+Wete,Kipangani,Kipangani,2485,2490,4,0,0,580311,9440986,Mainland
+Wete,Gando,Junguni,1251,1225,NA,NA,NA,578394,9446896,Mainland
+Wete,M/Mdogo,Mchanga Mdogo,2022,1983,NA,NA,NA,589444,9434198,Mainland
+Wete,M/Mdogo,Kambini,1802,1718,NA,NA,NA,589284,9433142,Mainland
+Wete,Shengejuu,Maziwani,1053,1025,7,0,0,588255,9437608,Mainland
+Wete,Mtambwe   Kusini,Mtambwe Kusini,1865,1880,NA,NA,NA,579037,9432236,Mainland
+Wete,Fundo,Fundo,1443,1504,26,63,63,NA,NA,Island
+Wete,Kojani,Mpambani,1872,1880,28,0,0,592933,9436506,Mainland
+Mkoani,Ngombeni,Ng'ombeni,1725,1655,9,10,10,571804,9407298,Mainland
+Mkoani,Ngombeni,Mbuyuni,907,776,0,4,4,571305,9407072,Mainland
+Mkoani,Uweleni,Uweleni,1449,1334,3,20,20,572377,9403244,Mainland
+Mkoani,Uweleni,Mbuguani,798,731,24,8,8,573227,9406736,Mainland
+Mkoani,Uweleni,Changaweni,1073,1026,16,21,21,575043,9405376,Mainland
+Mkoani,Makombeni,Makombeni,1056,1068,4,6,6,572444,9410220,Mainland
+Mkoani,Makoongwe,Makoongwe,914,916,0,0,0,NA,NA,Island
+Mkoani,Wambaa,Wambaa,1575,1962,36,0,0,574654,9413638,Mainland
+Mkoani,Wambaa,Chumbageni,1242,1320,65,36,36,577886,9411200,Mainland
+Mkoani,Mkanyageni,Mkanyageni,1774,1701,19,9,9,574007,9403284,Mainland
+Mkoani,Mkanyageni,Shidi,535,533,7,0,0,572279,9404380,Mainland
+Mkoani,Mkanyageni,Michenzani,2045,2184,25,14,14,570943,9402632,Mainland
+Mkoani,Mkanyageni,Stahabu,1422,1460,35,30,30,571570,9402504,Mainland
+Mkoani,Chokocho,Chokocho,2570,2529,35,10,10,571975,9400236,Mainland
+Mkoani,Kisiwa Panza,Kisiwa Panza,2246,2362,0,0,0,571701,9396590,Island
+Mkoani,Kiwani,Kiwani,1313,1377,12,7,7,584162,9403268,Mainland
+Mkoani,Kiwani,Kendwa,2316,2339,21,11,11,581728,9403244,Mainland
+Mkoani,Kiwani,Mtangani,1900,1746,26,8,8,586447,9406256,Mainland
+Mkoani,Muambe,Muambe,3636,3348,15,7,7,582551,9400730,Mainland
+Mkoani,Muambe,Jombwe,1614,1427,2,0,0,583675,9401562,Mainland
+Mkoani,Muambe,Shamiani,498,718,0,0,0,581763,9398818,Mainland
+Mkoani,Mtambile,Mtambile,2573,2268,13,10,10,577680,9405460,Mainland
+Mkoani,Kangani,Mjimbini,1347,1063,42,1,1,576749,9402622,Mainland
+Mkoani,Kangani,Kuukuu,1332,1268,54,16,16,577054,9399038,Mainland
+Mkoani,Kangani,Kangani,2287,2270,21,20,20,576299,9400154,Mainland
+Mkoani,Kengeja,Mkungu,829,735,22,14,14,581510,9411104,Mainland
+Mkoani,Kengeja,Kengeja,3028,2500,43,19,19,580609,9401094,Mainland
+Mkoani,Mtambile,Minazini,728,686,18,12,10,580890,9406012,Mainland
+Mkoani,Chambani,Chambani,2639,3009,50,20,20,586812,9409518,Mainland
+Mkoani,Chambani,Mizingani,1121,1174,13,0,0,578792,9406796,Mainland
+Mkoani,Chambani,Ukutini,1549,1475,30,4,4,584340,9409084,Mainland
+Mkoani,Chambani,Ngwachani,1449,1749,45,16,16,575043,9405376,Mainland
+Mkoani,Chambani,Mgagadu,704,777,18,25,40,580465,9408306,Mainland
+Chakechake,Chanjaani,Chanjaani,1850,1826,47,NA,NA,585782,9418224,Mainland
+Chakechake,Chanjaani,Madungu,2321,1914,33,NA,NA,585862,9419512,Mainland
+Chakechake,Shungi,Shungi,1661,1578,NA,NA,NA,583255,9415768,Mainland
+Chakechake,Chachani,Msingini,1113,973,5,NA,NA,585125,9420244,Mainland
+Chakechake,Chachani,Chachani,721,460,4,NA,NA,585092,9420210,Mainland
+Chakechake,Shumba Viamboni,Kichungwani,1456,1164,11,NA,NA,584968,9419876,Mainland
+Chakechake,Tibirinzi,Tibirinzi,2705,3254,38,NA,NA,584516,9421294,Mainland
+Chakechake,Tibirinzi,Wesha,2154,2072,20,NA,NA,581771,9422092,Mainland
+Chakechake,Ndagoni,Ndagoni,2457,2406,NA,NA,NA,578833,9423818,Mainland
+Chakechake,Kwale,Kwale,2045,1894,5,NA,NA,585394,9424996,Mainland
+Chakechake,Kwale,Michungwani,1450,1291,5,NA,NA,584192,9423906,Mainland
+Chakechake,Ziwani,Ziwani,3385,2934,53,NA,NA,585338,9427890,Mainland
+Chakechake,Ziwani,Mbuzini,1330,1295,NA,NA,NA,587110,9426178,Mainland
+Chakechake,Wara,Wara,4308,3404,17,NA,NA,586724,9421340,Mainland
+Chakechake,Wara,Mkoroshoni,1937,1639,14,NA,NA,586240,9422082,Mainland
+Chakechake,Ngambwa,Ng'ambwa,3340,3080,63,NA,NA,586801,9423472,Mainland
+Chakechake,Ng'ambwa,Uwandani,1598,1421,16,NA,NA,591371,9424546,Mainland
+Chakechake,Vitongoji,Vitongoji,2056,2618,33,NA,NA,591421,9422750,Mainland
+Chakechake,Vitongoji,Kibokoni,1208,1191,NA,NA,NA,592089,9420896,Mainland
+Chakechake,Wawi,Wawi,3553,3245,44,NA,NA,588481,9421074,Mainland
+Chakechake,Wawi,Mvumoni,1291,975,33,NA,NA,590312,9418340,Mainland
+Chakechake,Wawi,Mgogoni,1500,1223,27,NA,NA,590312,9418340,Mainland
+Chakechake,Wawi,Mfikiwa,918,1053,20,NA,NA,589163,9417830,Mainland
+Chakechake,Pujini,Pujini,2982,2833,6,NA,NA,588565,9414158,Mainland
+Chakechake,Pujini,Dodo,2141,2096,20,NA,NA,587770,9413674,Mainland
+Chakechake,Pujini,Matale,1987,2026,44,NA,NA,584706,9413722,Mainland
+Chakechake,Chonga,Chonga,2891,2683,51,NA,NA,583340,9413588,Mainland
+Chakechake,Chonga,Mgelema,1345,1741,30,NA,NA,578688,9415022,Mainland
+Chakechake,Kilindi,Kilindi,1758,1822,46,NA,NA,579891,9418216,Mainland

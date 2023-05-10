@@ -1,0 +1,243 @@
+,District,Ward,Village,Date,Start.time,End.time,Transport.used,Dogs.without.collars,Dogs.with.collars,Totalcounts,Comments
+1,Micheweni,Konde,Kiungani,14/11/2013,00:00,00:00,Bicycle,1,2,3,NA
+2,Micheweni,Kifundi,Matangatwani,14/11/2013,00:00,00:00,Bicycle,3,2,5,NA
+3,Micheweni,Mgogoni,Melisita,15/11/2013,00:00,00:00,Bicycle,2,2,4,NA
+4,Micheweni,Makangale,Kibuyuni,14/11/2013,00:00,00:00,Bicycle,4,3,7,NA
+5,Micheweni,Tondooni,Misheni,14/11/2013,00:00,00:00,Bicycle,3,1,4,NA
+6,Micheweni,Tumbe Magharibi,Kidongoni,15/11/2013,00:00,00:00,Bicycle,6,0,6,NA
+7,Micheweni,Tumbe Mashariki,Kaliwa,15/11/2013,00:00,00:00,Bicycle,2,0,2,NA
+8,Micheweni,Chimba,Bule,15/11/2013,00:00,00:00,Bicycle,7,12,19,NA
+9,Micheweni,Msuka Mashariki,Ungi,14/11/2013,00:00,00:00,Bicycle,9,6,15,NA
+10,Micheweni,Msuka Magharibi,Gombani,14/11/2013,00:00,00:00,Bicycle,3,5,8,NA
+11,Micheweni,Kinowe,Migombani,15/11/2013,00:00,00:00,Bicycle,2,6,8,NA
+12,Micheweni,Shumba Mjini,Mtamaduni,15/11/2013,00:00,00:00,Bicycle,7,2,9,NA
+13,Micheweni,Mlindo,Kichangani,15/11/2013,00:00,00:00,Bicycle,2,3,5,NA
+14,Micheweni,Sizini,Sizini,15/11/2013,00:00,00:00,Bicycle,1,5,6,NA
+15,Micheweni,Finya,Kisiwani mianzini,14/11/2013,00:00,00:00,Bicycle,1,1,2,NA
+16,Micheweni,Kinyasini,Mikarafuuni,15/11/2013,00:00,00:00,Bicycle,5,8,13,NA
+17,Micheweni,Wingwi Mjananza,Kidutani,14/11/2013,00:00,00:00,Bicycle,7,0,7,NA
+18,Micheweni,Mtemani,Kidodi,15/11/2013,00:00,00:00,Bicycle,5,4,9,NA
+19,Micheweni,Shumba Viamboni,Mgeninge,15/11/2013,00:00,00:00,Bicycle,1,4,5,NA
+20,Micheweni,Mihogoni,Mihogoni,15/11/2013,00:00,00:00,Bicycle,7,2,9,NA
+21,Micheweni,Wingwi Njuguni,Njuguni,14/11/2013,00:00,00:00,Bicycle,0,2,2,NA
+22,Micheweni,Wingwi Mapofu,Kinazini,14/11/2013,00:00,00:00,Bicycle,7,4,11,NA
+23,Micheweni,Mjini Wingwi,Sebudawa,14/11/2013,00:00,00:00,Bicycle,4,0,4,NA
+24,Micheweni,Maziwa Ng'ombe,Kandahari,15/11/2013,00:00,00:00,Bicycle,4,0,4,NA
+25,Micheweni,Micheweni,Chamboni,15/11/2013,00:00,00:00,Bicycle,5,0,5,NA
+26,Micheweni,Kiuyu Mbuyuni,Sanake,14/11/2013,00:00,00:00,Bicycle,3,0,3,NA
+27,Micheweni,Majenzi,Kwale,15/11/2013,00:00,00:00,Bicycle,3,0,3,NA
+28,Chakechake,Chonga,Chonga,14/11/2013,00:00,00:00,Foot,8,5,13,NA
+29,Chakechake,Ng'ambwa,Vikunguni,13/11/2013,00:00,00:00,Bicycle,4,2,6,NA
+30,Chakechake,Uwandani,Mjanaza,11/12/2013,00:00,00:00,Bicycle,3,9,12,NA
+31,Chakechake,Mkoroshoni,Mkanjuni,11/12/2013,00:00,00:00,Bicycle,3,11,14,NA
+32,Chakechake,Vitongoji,Udusini,11/12/2013,00:00,00:00,Bicycle,1,10,11,NA
+33,Chakechake,Kibokoni,Kibokoni,11/12/2013,00:00,00:00,Bicycle,1,0,1,NA
+34,Chakechake,Mvumoni,Furaha,13/11/2013,00:00,00:00,Bicycle,6,2,8,NA
+35,Chakechake,Pujini,Mchangani,11/12/2013,00:00,00:00,Bicycle,2,3,5,NA
+36,Chakechake,Mfikiwa,Fuweni,13/11/2013,00:00,00:00,Bicycle,5,0,5,NA
+37,Chakechake,Matale,Mwine,11/12/2013,00:00,00:00,Bicycle,4,3,7,NA
+38,Chakechake,Dodo,Kitokame,11/12/2013,00:00,00:00,Bicycle,2,0,2,NA
+39,Chakechake,Wawi,Matrekta,11/12/2013,00:00,00:00,Foot,3,5,8,NA
+40,Chakechake,Mbuzini,Semewani,13/11/2013,00:00,00:00,Foot,5,3,8,NA
+41,Chakechake,Kwale,Miburani,13/11/2013,00:00,00:00,Bicycle,6,4,10,NA
+42,Chakechake,Wara,Machomanne,13/11/2013,00:00,00:00,Foot,0,9,9,NA
+43,Chakechake,Ziwani,Barawa,11/12/2013,00:00,00:00,Bicycle,7,5,12,NA
+44,Chakechake,Shungi,Bomani,13/11/2013,00:00,00:00,Foot,9,3,12,NA
+45,Chakechake,Kilindi,Kiwanja cha mpira,13/11/2013,00:00,00:00,Foot,2,2,4,NA
+46,Chakechake,Mgelema,Banda la karafuu,13/11/2013,00:00,00:00,Foot,1,3,4,NA
+47,Chakechake,Kichungwani,Miembeni,13/11/2013,00:00,00:00,Bicycle,5,0,5,NA
+48,Chakechake,Michungwani,Kijemeni,11/12/2013,00:00,00:00,Bicycle,2,0,2,NA
+49,Chakechake,Wesha,Mbuyuni,11/12/2013,00:00,00:00,Bicycle,1,2,3,NA
+50,Chakechake,Ndagoni,Utaani,11/12/2013,00:00,00:00,Bicycle,2,0,2,NA
+51,Chakechake,Tibirinzi,Pondeani,11/12/2013,00:00,00:00,Bicycle,2,1,3,NA
+52,Chakechake,Msingini,Michakaini,11/12/2013,00:00,00:00,Foot,6,3,9,NA
+53,Chakechake,Mgogoni,Kichangani,13/11/2013,00:00,00:00,Bicycle,2,0,2,NA
+54,Chakechake,Madungu,Mtoni,11/12/2013,00:00,00:00,Foot,1,0,1,NA
+55,Chakechake,Chanjaani,Zaire mpendaye,11/12/2013,00:00,00:00,Bicycle,1,1,2,NA
+56,Chakechake,Chachani,Msufini,13/11/2013,00:00,00:00,Foot,2,0,2,NA
+57,Mkoani,Stahabu,Meza mambo,11/12/2013,00:00,00:00,Bicycle,5,0,5,NA
+58,Mkoani,Kisiwa Panza,Mtondoni,11/12/2013,00:00,00:00,Bicycle,0,0,0,NA
+59,Mkoani,Michenzani,Kwa muhunzi,11/12/2013,00:00,00:00,Bicycle,3,10,13,NA
+60,Mkoani,Chokocho,Ulenge,11/12/2013,00:00,00:00,Bicycle,7,6,13,NA
+61,Mkoani,Mkanyageni,Tasini,11/12/2013,00:00,00:00,Bicycle,6,7,13,NA
+62,Mkoani,Shidi,Kigongo,11/12/2013,00:00,00:00,Bicycle,3,4,7,NA
+63,Mkoani,Mgagadu,Kimbuni,11/12/2013,00:00,00:00,Bicycle,2,0,2,NA
+64,Mkoani,Wambaa,Kwa azani,11/11/2013,00:00,00:00,Bicycle,0,0,0,NA
+65,Mkoani,Mizingani,Kichunjuu,11/11/2013,00:00,00:00,Bicycle,7,5,12,NA
+66,Mkoani,Minazini,Minazini,11/12/2013,00:00,00:00,Bicycle,3,4,7,NA
+67,Mkoani,Chumbageni,Zawadini,11/11/2013,00:00,00:00,Bicycle,5,8,13,NA
+68,Mkoani,Kangani,Sokoni,11/12/2013,00:00,00:00,Motor cycle,3,8,11,NA
+69,Mkoani,Kuukuu,kuukuu,11/12/2013,00:00,00:00,Motor cycle,7,6,13,NA
+70,Mkoani,Mjimbini,Uwanjani,11/12/2013,00:00,00:00,Motor cycle,6,2,8,NA
+71,Mkoani,Changaweni,Kwa changawe,11/12/2013,00:00,00:00,Motor cycle,3,8,11,NA
+72,Mkoani,Mtambile,Mtakakaa,11/11/2013,00:00,00:00,Motor cycle,6,3,9,NA
+73,Mkoani,Ngwachani,Kenya,11/12/2013,00:00,00:00,Bicycle,4,9,13,NA
+74,Mkoani,Ukutini,Tuwa tagawe,11/11/2013,00:00,00:00,Bicycle,6,7,13,NA
+75,Mkoani,Mtangani,Chanjaani,11/11/2013,00:00,00:00,Bicycle,7,7,14,NA
+76,Mkoani,Kiwani,Kendwa,11/12/2013,00:00,00:00,Bicycle,4,5,9,NA
+77,Mkoani,Chambani,Mapare,11/11/2013,00:00,00:00,Bicycle,8,3,11,NA
+78,Mkoani,Makombeni,Katumeni,11/12/2013,00:00,00:00,Foot,5,3,8,NA
+79,Mkoani,Makoongwe,Skuli,11/12/2013,00:00,00:00,Bicycle,0,0,0,NA
+80,Mkoani,Mbuyuni,Mjini mkoani,11/12/2013,00:00,00:00,Foot,4,0,4,NA
+81,Mkoani,Ng'ombeni,Jondeni,11/12/2013,00:00,00:00,Foot,4,12,16,NA
+82,Mkoani,Mbuguani,Kipitacho,11/12/2013,00:00,00:00,Foot,3,8,11,NA
+83,Mkoani,Uweleni,Ndooni,11/12/2013,00:00,00:00,Foot,4,9,13,NA
+84,Mkoani,Shamiani,Kwagombe,11/12/2013,00:00,00:00,Bicycle,0,0,0,NA
+85,Mkoani,Muambe,Bwegeza,11/11/2013,00:00,00:00,Bicycle,3,10,13,NA
+86,Mkoani,Jombwe,Sanani,11/11/2013,00:00,00:00,Bicycle,1,11,12,NA
+87,Mkoani,Kengeja,Kaani,11/12/2013,00:00,00:00,Bicycle,2,6,8,NA
+88,Mkoani,Mkungu,Sipweje,11/11/2013,00:00,00:00,Bicycle,3,12,15,NA
+89,Mkoani,Kendwa,Kendwa,11/12/2013,00:00,00:00,Bicycle,2,4,6,NA
+90,Wete,Mtambwe Kusini,Kinazini,13/11/2013,00:00,00:00,Motor cycle,8,5,13,NA
+91,Wete,Mtambwe Kaskazini,Uondwe,13/11/2013,00:00,00:00,Bicycle,3,6,9,NA
+92,Wete,Kisiwani,Kijumbani,14/11/2013,00:00,00:00,Motor cycle,4,6,10,NA
+93,Wete,Utaani,Mkwajuni,15/11/2013,00:00,00:00,Bicycle,1,5,6,NA
+94,Wete,Kiuyu Minungwini,Mchangani,14/11/2013,00:00,00:00,Bicycle,0,0,0,NA
+95,Wete,Mchanga Mdogo,Ngombeume,14/11/2013,00:00,00:00,Bicycle,0,0,0,NA
+96,Wete,Pembeni,Chawanya Ng'ombe,14/11/2013,00:00,00:00,Bicycle,4,0,4,NA
+97,Wete,Kinyikani,Mkata Umoja,13/11/2013,00:00,00:00,Bicycle,2,3,5,NA
+98,Wete,Kiuyu Kigongoni,Matonga,14/11/2013,00:00,00:00,Bicycle,9,0,9,NA
+99,Wete,Kiungoni,Majinga,14/11/2013,00:00,00:00,Bicycle,3,2,5,NA
+100,Wete,Junguni,Mchangani,13/11/2013,00:00,00:00,Foot,2,3,5,NA
+101,Wete,Gando,Mianzini,13/11/2013,00:00,00:00,Foot,6,3,9,NA
+102,Wete,Ukunjwi,Ukunjwi,14/11/2013,00:00,00:00,Foot,3,4,7,NA
+103,Wete,Shengejuu,Masota,13/11/2013,00:00,00:00,Bicycle,1,2,3,NA
+104,Wete,Kambini,Kichokochwe,13/11/2013,00:00,00:00,Bicycle,0,8,8,NA
+105,Wete,Chwale,Kiunga jumbe,13/11/2013,00:00,00:00,Bicycle,1,6,7,NA
+106,Wete,Kojani,Jimbuni,13/11/2013,00:00,00:00,Foot,5,0,5,NA
+107,Wete,Mpambani,Mkukaani sokoni,13/11/2013,00:00,00:00,Foot,7,0,7,NA
+108,Wete,Mjini Ole,Mjini Ole,14/11/2013,00:00,00:00,Bicycle,3,4,7,NA
+109,Wete,Kizimbani,Mitondooni,13/11/2013,00:00,00:00,Bicycle,2,6,8,NA
+110,Wete,Bopwe,Mchangani,13/11/2013,00:00,00:00,Bicycle,4,1,5,NA
+111,Wete,Kangagani,Skuli,13/11/2013,00:00,00:00,Bicycle,4,4,8,NA
+112,Wete,Limbani,Tungamaa,14/11/2013,00:00,00:00,Foot,5,6,11,NA
+113,Wete,Mzambarauni Takao,Tadao,13/11/2013,00:00,00:00,Motor cycle,3,4,7,NA
+114,Wete,Maziwani,Maziwani,14/11/2013,00:00,00:00,Motor cycle,1,2,3,NA
+115,Wete,Ole,Ole,14/11/2013,00:00,00:00,Motor cycle,1,5,6,NA
+116,Wete,Piki,Piki,13/11/2013,00:00,00:00,Motor cycle,3,11,14,NA
+117,Wete,Pandani,Masita,14/11/2013,00:00,00:00,Motor cycle,2,10,12,NA
+118,Wete,Kipangani,Kipangani chini,13/11/2013,00:00,00:00,Foot,0,1,1,NA
+119,Wete,Selem,Saateni,14/11/2013,00:00,00:00,Foot,0,4,4,NA
+120,Wete,Fundo,Ndooni,14/11/2013,00:00,00:00,Foot,3,2,5,NA
+121,Wete,Jadida,Bubujiko,13/11/2013,00:00,00:00,Foot,1,8,9,NA
+122,Chakechake,Chachani,,08/12/2014,16:30,18:18,Foot,1,4,5,NA
+123,Chakechake,Chanjaani,,08/12/2014,16:30,18:15,Foot,8,18,26,NA
+124,Chakechake,Chonga,,10/12/2014,16:30,18:00,Foot,0,11,11,NA
+125,Chakechake,Dodo,,11/12/2014,16:00,18:00,Bicycle,2,1,3,NA
+126,Chakechake,Kibokoni,,09/12/2014,17:00,19:00,Bicycle,10,8,18,NA
+127,Chakechake,Kichungwani,,08/12/2014,16:05,17:46,Foot,2,6,8,NA
+128,Chakechake,Kilindi,,10/12/2014,17:30,19:30,Foot,4,12,16,NA
+129,Chakechake,Kwale,,10/12/2014,15:00,17:00,Bicycle,2,1,3,NA
+130,Chakechake,Matale,,11/12/2014,16:00,18:00,Bicycle,6,15,21,NA
+131,Chakechake,Mbuzini,,11/12/2014,16:00,18:05,Bicycle,1,4,5,NA
+132,Chakechake,Mfikiwa,,09/12/2014,16:00,17:49,Foot,1,1,2,NA
+133,Chakechake,Madungu,,09/12/2014,NA,NA,NA,0,0,0,Data for this village is missing_not collected
+134,Chakechake,Mgelema,,11/12/2014,17:30,19:30,Foot,2,2,4,NA
+135,Chakechake,Mgogoni,,15/12/2014,16:00,18:15,Bicycle,1,1,2,NA
+136,Chakechake,Michungwani,,11/12/2014,15:00,17:00,Bicycle,0,0,0,NA
+137,Chakechake,Mkoroshoni,,10/12/2014,15:00,17:30,Bicycle,2,5,7,NA
+138,Chakechake,Msingini,,08/12/2014,17:30,19:30,Foot,1,5,6,NA
+139,Chakechake,Mvumoni,,09/12/2014,16:00,18:00,Bicycle,3,17,20,NA
+140,Chakechake,Ndagoni,,10/12/2014,16:06,18:35,Bicycle,4,6,10,NA
+141,Chakechake,Ng'ambwa,,10/12/2014,15:00,17:13,Bicycle,4,4,8,NA
+142,Chakechake,Pujini,,11/12/2014,16:00,18:00,Bicycle,13,7,20,NA
+143,Chakechake,Shungi,,08/12/2014,16:30,18:00,Foot,0,5,5,NA
+144,Chakechake,Tibirinzi,,08/12/2014,16:45,18:12,Bicycle,4,19,23,NA
+145,Chakechake,Uwandani,,09/12/2014,17:00,19:15,Bicycle,6,5,11,NA
+146,Chakechake,Vitongoji,,09/12/2014,17:00,19:20,Bicycle,9,10,19,NA
+147,Chakechake,Wara,,10/12/2014,16:50,18:30,Bicycle,4,9,13,NA
+148,Chakechake,Wawi,,09/12/2014,17:12,19:50,Foot,9,24,33,NA
+149,Chakechake,Wesha,,08/12/2014,16:20,18:05,Foot,4,9,13,NA
+150,Chakechake,Ziwani,,11/12/2014,17:45,19:38,Bicycle,2,17,19,NA
+151,Micheweni,Chimba,,16/12/2014,16:00,18:30,Bicycle,11,7,18,NA
+152,Micheweni,Finya,,20/12/2014,16:00,18:25,Bicycle,20,14,34,NA
+153,Micheweni,Kifundi,,16/12/2014,16:00,18:05,Bicycle,6,15,21,NA
+154,Micheweni,Kinowe,,20/12/2014,16:30,18:15,Bicycle,11,15,26,NA
+155,Micheweni,Kinyasini,,16/12/2014,16:00,18:30,Bicycle,9,7,16,NA
+156,Micheweni,Kiuyu Mbuyuni,,17/12/2014,17:00,19:00,Bicycle,8,10,18,NA
+157,Micheweni,Konde,,20/12/2014,16:30,18:15,Bicycle,6,10,16,NA
+158,Micheweni,Majenzi,,16/12/2014,15:00,16:50,Bicycle,2,1,3,NA
+159,Micheweni,Makangale,,16/12/2014,16:00,18:00,Bicycle,12,18,30,NA
+161,Micheweni,Maziwa Ng'ombe,,17/12/2014,15:00,17:00,Bicycle,6,3,9,NA
+162,Micheweni,Mgogoni,,16/12/2014,16:00,18:15,Bicycle,7,10,17,NA
+163,Micheweni,Micheweni,,16/12/2014,17:00,19:00,Bicycle,6,9,15,NA
+164,Micheweni,Mihogoni,,16/12/2014,15:30,17:30,Bicycle,6,10,16,NA
+165,Micheweni,Wingwi Mjananza,,17/12/2014,16:00,18:20,Bicycle,7,3,10,NA
+166,Micheweni,Mjini Wingwi,,18/12/2014,16:00,18:30,Bicycle,0,0,0,NA
+167,Micheweni,Mlindo,,16/12/2014,16:00,18:00,Foot,1,2,3,NA
+168,Micheweni,Msuka Magharibi,,16/12/2014,17:00,19:30,Bicycle,9,19,28,NA
+169,Micheweni,Msuka Mashariki,,16/12/2014,16:00,18:00,Bicycle,7,4,11,NA
+170,Micheweni,Sizini,Sizini,14/12/2014,NA,NA,NA,NA,NA,NA,NA
+171,Micheweni,Mtemani,,16/12/2014,16:12,18:00,Bicycle,3,7,10,NA
+172,Micheweni,Shumba Mjini,,16/12/2014,17:00,19:20,Bicycle,2,5,7,NA
+173,Micheweni,Shumba Viamboni,,16/12/2014,14:00,16:00,Bicycle,2,20,22,NA
+174,Micheweni,Tondooni,,16/12/2014,16:00,18:00,Bicycle,6,8,14,NA
+175,Micheweni,Tumbe Magharibi,,16/12/2014,17:30,19:30,Bicycle,5,12,17,NA
+176,Micheweni,Tumbe Mashariki,,16/12/2014,16:00,18:00,Bicycle,0,0,0,NA
+177,Micheweni,Wingwi Mapofu,,18/12/2014,14:00,16:30,Bicycle,6,1,7,NA
+178,Micheweni,Wingwi Njuguni,,16/12/2014,15:00,17:45,Bicycle,2,2,4,NA
+179,Mkoani,Chambani,,06/12/2014,14:00,16:05,Bicycle,3,6,9,NA
+180,Mkoani,Changaweni,,03/12/2014,17:45,19:15,Vespa,2,4,6,NA
+181,Mkoani,Chokocho,,06/12/2014,17:00,19:20,Vespa,3,11,14,NA
+182,Mkoani,Chumbageni,,02/12/2014,17:00,18:55,Bicycle,4,23,27,NA
+183,Mkoani,Jombwe,,06/12/2014,17:30,19:15,Bicycle,1,2,3,NA
+184,Mkoani,Kangani,,01/12/2014,16:15,18:55,Vespa,6,22,28,NA
+185,Mkoani,Kendwa,,01/12/2014,16:15,18:30,Bicycle,3,2,5,NA
+186,Mkoani,Kengeja,,03/12/2014,16:00,18:15,Bicycle,2,6,8,NA
+187,Mkoani,Kiwani,,06/12/2014,15:36,17:15,Bicycle,2,5,7,NA
+188,Mkoani,Kisiwa Panza,,03/12/2014,16:00,18:00,Foot,0,0,0,NA
+189,Mkoani,Kuukuu,,06/12/2014,17:05,19:30,Vespa,7,12,19,NA
+190,Mkoani,Makombeni,,03/12/2014,14:45,16:30,Foot,5,10,15,NA
+191,Mkoani,Makoongwe,,03/12/2014,16:00,18:00,Bicycle,0,0,0,NA
+192,Mkoani,Mbuguani,,03/12/2014,14:30,16:30,Bicycle,1,1,2,NA
+193,Mkoani,Mbuyuni,,03/12/2014,16:00,18:05,Foot,2,11,13,NA
+194,Mkoani,Mgagadu,,03/12/2014,17:00,19:03,Bicycle,1,10,11,NA
+195,Mkoani,Michenzani,,06/12/2014,16:30,18:45,Bicycle,2,12,14,NA
+196,Mkoani,Minazini,,03/12/2014,16:05,18:50,Bicycle,0,18,18,NA
+197,Mkoani,Mizingani,,02/12/2014,17:00,18:55,Bicycle,2,19,21,NA
+198,Mkoani,Mjimbini,,03/12/2014,16:14,18:00,Vespa,14,23,37,NA
+199,Mkoani,Mkanyageni,,06/12/2014,16:00,17:50,Bicycle,1,2,3,NA
+200,Mkoani,Mkungu,,03/12/2014,16:15,18:12,Bicycle,3,21,24,NA
+201,Mkoani,Mtambile,,03/12/2014,16:00,16:30,Vespa,1,3,4,NA
+202,Mkoani,Mtangani,,02/12/2014,16:00,18:05,Bicycle,2,8,10,NA
+203,Mkoani,Muambe,,03/12/2014,16:10,18:50,Bicycle,1,6,7,NA
+204,Mkoani,Ng'ombeni,,03/12/2014,15:30,16:30,Foot,3,14,17,NA
+205,Mkoani,Ngwachani,,06/12/2014,16:00,18:00,Bicycle,1,13,14,NA
+206,Mkoani,Shamiani,,03/12/2014,16:00,18:00,Foot,1,1,2,NA
+207,Mkoani,Shidi,,06/12/2014,17:00,19:00,Bicycle,2,6,8,NA
+208,Mkoani,Stahabu,,04/12/2014,17:00,19:00,Bicycle,2,8,10,NA
+209,Mkoani,Ukutini,,03/12/2014,16:00,18:05,Bicycle,2,8,10,NA
+210,Mkoani,Uweleni,,03/12/2014,17:30,19:30,Foot,1,12,13,NA
+211,Mkoani,Wambaa,,04/12/2014,17:15,19:00,Bicycle,2,2,4,NA
+212,Wete,Bopwe,,08/12/2014,16:45,18:20,Bicycle,2,4,6,NA
+213,Wete,Chwale,,10/12/2014,16:15,18:57,Bicycle,0,3,3,NA
+214,Wete,Fundo,,10/12/2014,16:00,18:30,Foot,1,2,3,NA
+215,Wete,Gando,,08/12/2014,16:42,18:10,Bicycle,5,10,15,NA
+216,Wete,Jadida,,08/12/2014,16:00,18:00,Bicycle,0,4,4,NA
+217,Wete,Junguni,,08/12/2014,16:05,17:55,Bicycle,2,14,16,NA
+218,Wete,Kambini,,10/12/2014,16:00,17:45,Bicycle,1,3,4,NA
+219,Wete,Kangagani,,10/12/2014,16:00,18:00,Foot,0,0,0,NA
+220,Wete,Kinyikani,,13/12/2014,16:15,18:47,Bicycle,14,3,17,NA
+221,Wete,Kipangani,,08/12/2014,16:12,18:00,Bicycle,0,0,0,NA
+222,Wete,Kisiwani,,12/12/2014,15:00,16:50,Bicycle,7,14,21,NA
+223,Wete,Kiungoni,,09/12/2014,15:12,18:36,Foot,3,12,15,NA
+224,Wete,Kiuyu Kigongoni,,10/12/2014,14:30,16:30,Bicycle,1,5,6,NA
+225,Wete,Kiuyu Minungwini,,10/12/2014,15:30,18:00,Bicycle,1,2,3,NA
+226,Wete,Kizimbani,,08/12/2014,15:00,17:05,Bicycle,1,2,3,NA
+227,Wete,Kojani,,10/12/2014,16:00,18:00,Bicycle,2,4,6,NA
+228,Wete,Limbani,,08/12/2014,16:00,18:00,Bicycle,0,15,15,NA
+229,Wete,Maziwani,,09/12/2014,16:10,18:15,Bicycle,3,7,10,NA
+230,Wete,Mchanga Mdogo,,12/12/2014,16:41,18:34,Bicycle,0,0,0,NA
+231,Wete,Mjini Ole,,12/12/2014,16:00,18:30,Vespa,3,5,8,NA
+232,Wete,Mpambani,,10/12/2014,16:00,18:00,Vespa,4,4,8,NA
+233,Wete,Mtambwe Kaskazini,,09/12/2014,16:00,18:00,Vespa,14,36,50,NA
+234,Wete,Mtambwe Kusini,,11/12/2014,16:00,18:00,Vespa,8,17,25,NA
+235,Wete,Mzambarauni Takao,,12/12/2014,16:00,18:30,Vespa,4,12,16,NA
+236,Wete,Ole,,12/12/2014,16:00,18:30,Vespa,0,18,18,NA
+237,Wete,Pandani,,11/12/2014,16:00,18:30,Vespa,3,1,4,NA
+238,Wete,Pembeni,,12/12/2014,16:07,18:43,Bicycle,4,4,8,NA
+239,Wete,Piki,,09/12/2014,16:00,18:00,Bicycle,10,4,14,NA
+240,Wete,Selem,,12/12/2014,16:03,18:12,Bicycle,1,5,6,NA
+241,Wete,Shengejuu,,09/12/2014,16:05,18:00,Bicycle,1,2,3,NA
+242,Wete,Ukunjwi,,08/12/2014,16:08,18:02,Foot,4,16,20,NA
+243,Wete,Utaani,,08/12/2014,16:00,18:00,Foot,1,10,11,NA

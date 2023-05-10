@@ -1,0 +1,122 @@
+"DISTRICT","WARD_CURRENT","VILLAGE.SHEHIA","HumanFEMALEs_vill","HumanMALES_vill","DogsOwned","DogsStray_estimate1","DogsStray_estimate2","Easting","Northing","Mainland.Island","DW","ward_match","totalHumans","DogsStray_estimate_mean","totalDogs","month"
+"Micheweni","Tumbe","Tumbe Mashariki",3153,3081,13,12,12,587373,9452974,"Mainland ","Micheweni_Tumbe Mashariki",36,6234,12,25,31
+"Micheweni","Msuka","Msuka Magharibi",2396,2346,28,16,16,581697,9455530,"Mainland ","Micheweni_Msuka Magharibi",48,4742,16,44,30
+"Micheweni","Konde","Konde",5002,4667,45,20,20,582840,9453450,"Mainland ","Micheweni_Konde",40,9669,20,65,30
+"Micheweni","Konde","Tondooni",1580,1420,56,12,12,576016,9454210,"Mainland ","Micheweni_Tondooni",56,3000,12,68,30
+"Micheweni","Konde","Makangale",1260,1207,68,36,36,576490,9457016,"Mainland ","Micheweni_Makangale",43,2467,36,104,30
+"Micheweni","Msuka","Msuka Mashariki",2703,2581,30,36,36,581618,9456918,"Mainland ","Micheweni_Msuka Mashariki",34,5284,36,66,30
+"Micheweni","Mgogoni","Mgogoni",2057,1964,67,12,12,581895,9448128,"Mainland ","Micheweni_Mgogoni",37,4021,12,79,30
+"Micheweni","Mgogoni","Kinyasini",1792,1407,44,12,12,582189,9444000,"Mainland ","Micheweni_Kinyasini",52,3199,12,56,30
+"Micheweni","Tumbe","Sizini",2603,2706,18,9,9,589786,9447950,"Mainland ","Micheweni_Sizini",51,5309,9,27,31
+"Micheweni","Micheweni","Shumba Mjini",2580,2663,36,8,8,591541,9450724,"Mainland ","Micheweni_Shumba Mjini",45,5243,8,44,30
+"Micheweni","Kiuyu","Kiuyu Mbuyuni",4036,3578,32,14,14,595810,9452948,"Mainland ","Micheweni_Kiuyu Mbuyuni",42,7614,14,46,31
+"Micheweni","Kiuyu Maziwa N'gombe","Maziwa Ng'ombe",4308,2155,20,34,34,595631,9449088,"Mainland ","Micheweni_Maziwa Ng'ombe",55,6463,34,54,30
+"Micheweni","Micheweni","Majenzi",2046,3540,4,9,9,592287,9449564,"Mainland ","Micheweni_Majenzi",46,5586,9,13,30
+"Micheweni","Micheweni","Mjini Wingwi",2423,2215,12,18,18,593054,9447738,"Mainland ","Micheweni_Mjini Wingwi",47,4638,18,30,30
+"Micheweni","Mgogoni","Finya",2818,1448,90,30,30,584764,9443562,"Mainland ","Micheweni_Finya",39,4266,30,120,30
+"Micheweni","Wingwi Mapofu","Wingwi Mapofu",2027,1815,12,15,15,589693,9443562,"Mainland ","Micheweni_Wingwi Mapofu",41,3842,15,27,31
+"Micheweni","Shumba Viamboni","Shumba Viamboni",2054,1650,38,10,10,585575,9448914,"Mainland ","Micheweni_Shumba Viamboni",38,3704,10,48,31
+"Micheweni","Micheweni","Micheweni",4436,4074,15,15,15,592800,9449812,"Mainland ","Micheweni_Micheweni",33,8510,15,30,31
+"Micheweni","Kinowe","Chimba",2000,1500,36,11,11,584077,9450418,"Mainland ","Micheweni_Chimba",49,3500,11,47,30
+"Micheweni","Wingwi/Njuguni","Wingwi Njuguni",1591,1113,9,17,17,590040,9444344,"Mainland ","Micheweni_Wingwi Njuguni",44,2704,17,26,31
+"Micheweni","Shengejuu","Mtemani",2309,2230,26,12,12,591424,9443820,"Mainland ","Micheweni_Mtemani",57,4539,12,38,30
+"Micheweni","Wingwi/Njuguni","Wingwi Mjananza",1165,900,13,9,9,590941,9442916,"Mainland ","Micheweni_Wingwi Mjananza",58,2065,9,22,30
+"Micheweni","Wingwi/Njuguni","Mlindo",1300,1172,9,4,4,589222,9443412,"Mainland ","Micheweni_Mlindo",59,2472,4,13,30
+"Micheweni","Shumba Viamboni","Mihogoni",1403,1251,52,25,25,587613,9446996,"Mainland ","Micheweni_Mihogoni",53,2654,25,77,30
+"Micheweni","Konde","Kifundi",1542,1609,68,9,9,581475,9450494,"Mainland ","Micheweni_Kifundi",54,3151,9,77,30
+"Micheweni","Tumbe ","Tumbe Magharibi",2333,2234,11,10,10,586904,9452644,"Mainland ","Micheweni_Tumbe Magharibi",50,4567,10,21,31
+"Micheweni","Kinowe","Kinowe",2558,2306,28,16,16,584002,9453294,"Mainland ","Micheweni_Kinowe",35,4864,16,44,30
+"Wete","Kiuyu","Kiuyu Kigongoni",1884,1949,NA,NA,NA,589681,9429998,"Mainland ","Wete_Kiuyu Kigongoni",25,3833,NA,NA,30
+"Wete","Gando","Ukunjwi",1795,1848,88,0,0,578583,9443786,"Mainland ","Wete_Ukunjwi",13,3643,0,88,30
+"Wete","Ole","Kangagani",1724,1909,NA,NA,NA,591706,9429018,"Mainland ","Wete_Kangagani",8,3633,NA,NA,30
+"Wete","Ole","Ole",3624,3547,30,0,0,590059,9426784,"Mainland ","Wete_Ole",7,7171,0,30,30
+"Wete","Kiuyu","Kiuyu Minungwini",2895,2937,7,0,0,589607,9430954,"Mainland ","Wete_Kiuyu Minungwini",9,5832,0,7,30
+"Wete","utaani","Utaani",2021,1828,NA,NA,NA,581352,9440742,"Mainland ","Wete_Utaani",17,3849,NA,NA,30
+"Wete","Shengejuu","Shengejuu",1176,1256,21,0,0,590074,9438184,"Mainland ","Wete_Shengejuu",15,2432,0,21,30
+"Wete","Mtambwe Kaskazini","Mtambwe Kaskazini",3483,3550,150,0,0,579161,9437310,"Mainland ","Wete_Mtambwe Kaskazini",2,7033,0,150,30
+"Wete","Kipangani","Selem",1344,1191,NA,NA,NA,580048,9440986,"Mainland ","Wete_Selem",19,2535,NA,NA,30
+"Wete","Pandani","Pandani",2947,2561,31,0,0,586185,9440942,"Island","Wete_Pandani",14,5508,0,31,30
+"Wete","Piki","Mzambarauni Takao",1519,1489,NA,NA,NA,585358,9440986,"Mainland","Wete_Mzambarauni Takao",26,3008,NA,NA,30
+"Wete","Kisiwani","Kisiwani",1755,1635,NA,NA,NA,585073,9431428,"Mainland","Wete_Kisiwani",11,3390,NA,NA,30
+"Wete","M/Mdogo","Kinyikani",1249,1183,16,0,0,587016,9434692,"Mainland","Wete_Kinyikani",20,2432,0,16,30
+"Wete","Kiungoni","Kiungoni",2610,2652,21,0,0,590071,9441184,"Mainland","Wete_Kiungoni",28,5262,0,21,30
+"Wete","Utaani","Limbani",2013,1828,44,0,0,583298,9439736,"Mainland","Wete_Limbani",31,3841,0,44,30
+"Wete","Kojani","Kojani",2361,2238,52,14,14,593492,9436440,"Island","Wete_Kojani",6,4599,14,66,30
+"Wete","Utaani","Jadida",3014,2999,NA,NA,NA,580934,9440460,"Mainland","Wete_Jadida",32,6013,NA,NA,30
+"Wete","Bobwe","Kizimbani",3022,2876,NA,NA,NA,581233,9441204,"Mainland","Wete_Kizimbani",30,5898,NA,NA,30
+"Wete","Gando","Bopwe",2969,2669,NA,NA,NA,580572,9441632,"Mainland","Wete_Bopwe",16,5638,NA,NA,30
+"Wete","Shengejuu","Chwale",1439,1390,NA,NA,NA,590189,9436460,"Mainland","Wete_Chwale",21,2829,NA,NA,30
+"Wete","Gando","Gando",1630,1757,70,0,0,576886,9448262,"Mainland","Wete_Gando",12,3387,0,70,30
+"Wete","Ole","Mjini Ole",1683,1771,12,0,0,591868,9428308,"Mainland","Wete_Mjini Ole",24,3454,0,12,30
+"Wete","Shengejuu","Pembeni",1083,1091,10,0,0,588730,9439948,"Mainland","Wete_Pembeni",29,2174,0,10,30
+"Wete","Piki","Piki",2186,2321,NA,NA,NA,585348,9434066,"Mainland","Wete_Piki",10,4507,NA,NA,30
+"Wete","Kipangani","Kipangani",2485,2490,4,0,0,580311,9440986,"Mainland","Wete_Kipangani",1,4975,0,4,30
+"Wete","Gando","Junguni",1251,1225,NA,NA,NA,578394,9446896,"Mainland","Wete_Junguni",27,2476,NA,NA,30
+"Wete","M/Mdogo","Mchanga Mdogo",2022,1983,NA,NA,NA,589444,9434198,"Mainland","Wete_Mchanga Mdogo",4,4005,NA,NA,30
+"Wete","M/Mdogo","Kambini",1802,1718,NA,NA,NA,589284,9433142,"Mainland","Wete_Kambini",5,3520,NA,NA,30
+"Wete","Shengejuu","Maziwani",1053,1025,7,0,0,588255,9437608,"Mainland","Wete_Maziwani",22,2078,0,7,31
+"Wete","Mtambwe   Kusini","Mtambwe Kusini",1865,1880,NA,NA,NA,579037,9432236,"Mainland","Wete_Mtambwe Kusini",18,3745,NA,NA,30
+"Wete","Fundo","Fundo",1443,1504,26,63,63,NA,NA,"Island","Wete_Fundo",3,2947,63,89,30
+"Wete","Kojani","Mpambani",1872,1880,28,0,0,592933,9436506,"Mainland","Wete_Mpambani",23,3752,0,28,30
+"Mkoani","Ngombeni","Ng'ombeni",1725,1655,9,10,10,571804,9407298,"Mainland","Mkoani_Ng'ombeni",89,3380,10,19,30
+"Mkoani","Ngombeni","Mbuyuni",907,776,0,4,4,571305,9407072,"Mainland","Mkoani_Mbuyuni",111,1683,4,4,30
+"Mkoani","Uweleni","Uweleni",1449,1334,3,20,20,572377,9403244,"Mainland","Mkoani_Uweleni",107,2783,20,23,30
+"Mkoani","Uweleni","Mbuguani",798,731,24,8,8,573227,9406736,"Mainland","Mkoani_Mbuguani",106,1529,8,32,30
+"Mkoani","Uweleni","Changaweni",1073,1026,16,21,21,575043,9405376,"Mainland","Mkoani_Changaweni",121,2099,21,37,30
+"Mkoani","Makombeni","Makombeni",1056,1068,4,6,6,572444,9410220,"Mainland","Mkoani_Makombeni",90,2124,6,10,30
+"Mkoani","Makoongwe","Makoongwe",914,916,0,0,0,NA,NA,"Island","Mkoani_Makoongwe",91,1830,0,0,30
+"Mkoani","Wambaa","Wambaa",1575,1962,36,0,0,574654,9413638,"Mainland","Mkoani_Wambaa",105,3537,0,36,30
+"Mkoani","Wambaa","Chumbageni",1242,1320,65,36,36,577886,9411200,"Mainland","Mkoani_Chumbageni",110,2562,36,101,30
+"Mkoani","Mkanyageni","Mkanyageni",1774,1701,19,9,9,574007,9403284,"Mainland","Mkoani_Mkanyageni",93,3475,9,28,30
+"Mkoani","Mkanyageni","Shidi",535,533,7,0,0,572279,9404380,"Mainland","Mkoani_Shidi",92,1068,0,7,30
+"Mkoani","Mkanyageni","Michenzani",2045,2184,25,14,14,570943,9402632,"Mainland","Mkoani_Michenzani",94,4229,14,39,30
+"Mkoani","Mkanyageni","Stahabu",1422,1460,35,30,30,571570,9402504,"Mainland","Mkoani_Stahabu",112,2882,30,65,30
+"Mkoani","Chokocho","Chokocho",2570,2529,35,10,10,571975,9400236,"Mainland","Mkoani_Chokocho",95,5099,10,45,30
+"Mkoani","Kisiwa Panza","Kisiwa Panza",2246,2362,0,0,0,571701,9396590,"Island","Mkoani_Kisiwa Panza",96,4608,0,0,30
+"Mkoani","Kiwani","Kiwani",1313,1377,12,7,7,584162,9403268,"Mainland","Mkoani_Kiwani",100,2690,7,19,33
+"Mkoani","Kiwani","Kendwa",2316,2339,21,11,11,581728,9403244,"Mainland","Mkoani_Kendwa",117,4655,11,32,30
+"Mkoani","Kiwani","Mtangani",1900,1746,26,8,8,586447,9406256,"Mainland","Mkoani_Mtangani",108,3646,8,34,33
+"Mkoani","Muambe","Muambe",3636,3348,15,7,7,582551,9400730,"Mainland","Mkoani_Muambe",99,6984,7,22,31
+"Mkoani","Muambe","Jombwe",1614,1427,2,0,0,583675,9401562,"Mainland","Mkoani_Jombwe",116,3041,0,2,30
+"Mkoani","Muambe","Shamiani",498,718,0,0,0,581763,9398818,"Mainland","Mkoani_Shamiani",115,1216,0,0,30
+"Mkoani","Mtambile","Mtambile",2573,2268,13,10,10,577680,9405460,"Mainland","Mkoani_Mtambile",101,4841,10,23,31
+"Mkoani","Kangani","Mjimbini",1347,1063,42,1,1,576749,9402622,"Mainland","Mkoani_Mjimbini",114,2410,1,43,30
+"Mkoani","Kangani","Kuukuu",1332,1268,54,16,16,577054,9399038,"Mainland","Mkoani_Kuukuu",113,2600,16,70,30
+"Mkoani","Kangani","Kangani",2287,2270,21,20,20,576299,9400154,"Mainland","Mkoani_Kangani",97,4557,20,41,30
+"Mkoani","Kengeja","Mkungu",829,735,22,14,14,581510,9411104,"Mainland","Mkoani_Mkungu",120,1564,14,36,33
+"Mkoani","Kengeja","Kengeja",3028,2500,43,19,19,580609,9401094,"Mainland","Mkoani_Kengeja",98,5528,19,62,31
+"Mkoani","Mtambile","Minazini",728,686,18,12,10,580890,9406012,"Mainland","Mkoani_Minazini",118,1414,11,29,31
+"Mkoani","Chambani","Chambani",2639,3009,50,20,20,586812,9409518,"Mainland","Mkoani_Chambani",104,5648,20,70,30
+"Mkoani","Chambani","Mizingani",1121,1174,13,0,0,578792,9406796,"Mainland","Mkoani_Mizingani",102,2295,0,13,31
+"Mkoani","Chambani","Ukutini",1549,1475,30,4,4,584340,9409084,"Mainland","Mkoani_Ukutini",109,3024,4,34,30
+"Mkoani","Chambani","Ngwachani",1449,1749,45,16,16,575043,9405376,"Mainland","Mkoani_Ngwachani",103,3198,16,61,31
+"Mkoani","Chambani","Mgagadu",704,777,18,25,40,580465,9408306,"Mainland","Mkoani_Mgagadu",119,1481,32.5,50.5,30
+"Chake Chake","Chanjaani","Chanjaani",1850,1826,47,NA,NA,585782,9418224,"Mainland","Chake Chake_Chanjaani",60,3676,NA,47,31
+"Chake Chake","Chanjaani","Madungu",2321,1914,33,NA,NA,585862,9419512,"Mainland","Chake Chake_Madungu",79,4235,NA,33,30
+"Chake Chake","Shungi","Shungi",1661,1578,NA,NA,NA,583255,9415768,"Mainland","Chake Chake_Shungi",68,3239,NA,NA,30
+"Chake Chake","Chachani","Msingini",1113,973,5,NA,NA,585125,9420244,"Mainland","Chake Chake_Msingini",86,2086,NA,5,30
+"Chake Chake","Chachani","Chachani",721,460,4,NA,NA,585092,9420210,"Mainland","Chake Chake_Chachani",73,1181,NA,4,30
+"Chake Chake","Shumba Viamboni","Kichungwani",1456,1164,11,NA,NA,584968,9419876,"Mainland","Chake Chake_Kichungwani",85,2620,NA,11,30
+"Chake Chake","Tibirinzi","Tibirinzi",2705,3254,38,NA,NA,584516,9421294,"Mainland","Chake Chake_Tibirinzi",72,5959,NA,38,30
+"Chake Chake","Tibirinzi","Wesha",2154,2072,20,NA,NA,581771,9422092,"Mainland","Chake Chake_Wesha",77,4226,NA,20,30
+"Chake Chake","Ndagoni","Ndagoni",2457,2406,NA,NA,NA,578833,9423818,"Mainland","Chake Chake_Ndagoni",64,4863,NA,NA,30
+"Chake Chake","Kwale","Kwale",2045,1894,5,NA,NA,585394,9424996,"Mainland","Chake Chake_Kwale",65,3939,NA,5,30
+"Chake Chake","Kwale","Michungwani",1450,1291,5,NA,NA,584192,9423906,"Mainland","Chake Chake_Michungwani",83,2741,NA,5,30
+"Chake Chake","Ziwani","Ziwani",3385,2934,53,NA,NA,585338,9427890,"Mainland","Chake Chake_Ziwani",63,6319,NA,53,30
+"Chake Chake","Ziwani","Mbuzini",1330,1295,NA,NA,NA,587110,9426178,"Mainland","Chake Chake_Mbuzini",82,2625,NA,NA,31
+"Chake Chake","Wara","Wara",4308,3404,17,NA,NA,586724,9421340,"Mainland","Chake Chake_Wara",74,7712,NA,17,30
+"Chake Chake","Wara","Mkoroshoni",1937,1639,14,NA,NA,586240,9422082,"Mainland","Chake Chake_Mkoroshoni",87,3576,NA,14,30
+"Chake Chake","Ngambwa","Ng'ambwa",3340,3080,63,NA,NA,586801,9423472,"Mainland","Chake Chake_Ng'ambwa",67,6420,NA,63,30
+"Chake Chake","Ng'ambwa","Uwandani",1598,1421,16,NA,NA,591371,9424546,"Mainland","Chake Chake_Uwandani",78,3019,NA,16,30
+"Chake Chake","Vitongoji","Vitongoji",2056,2618,33,NA,NA,591421,9422750,"Mainland","Chake Chake_Vitongoji",66,4674,NA,33,30
+"Chake Chake","Vitongoji","Kibokoni",1208,1191,NA,NA,NA,592089,9420896,"Mainland","Chake Chake_Kibokoni",84,2399,NA,NA,30
+"Chake Chake","Wawi","Wawi",3553,3245,44,NA,NA,588481,9421074,"Mainland","Chake Chake_Wawi",61,6798,NA,44,30
+"Chake Chake","Wawi","Mvumoni",1291,975,33,NA,NA,590312,9418340,"Mainland","Chake Chake_Mvumoni",75,2266,NA,33,30
+"Chake Chake","Wawi","Mgogoni",1500,1223,27,NA,NA,590312,9418340,"Mainland","Chake Chake_Mgogoni",80,2723,NA,27,30
+"Chake Chake","Wawi","Mfikiwa",918,1053,20,NA,NA,589163,9417830,"Mainland","Chake Chake_Mfikiwa",88,1971,NA,20,31
+"Chake Chake","Pujini","Pujini",2982,2833,6,NA,NA,588565,9414158,"Mainland","Chake Chake_Pujini",62,5815,NA,6,30
+"Chake Chake","Pujini","Dodo",2141,2096,20,NA,NA,587770,9413674,"Mainland","Chake Chake_Dodo",81,4237,NA,20,30
+"Chake Chake","Pujini","Matale",1987,2026,44,NA,NA,584706,9413722,"Mainland","Chake Chake_Matale",76,4013,NA,44,30
+"Chake Chake","Chonga","Chonga",2891,2683,51,NA,NA,583340,9413588,"Mainland","Chake Chake_Chonga",69,5574,NA,51,30
+"Chake Chake","Chonga","Mgelema",1345,1741,30,NA,NA,578688,9415022,"Mainland","Chake Chake_Mgelema",70,3086,NA,30,30
+"Chake Chake","Kilindi","Kilindi",1758,1822,46,NA,NA,579891,9418216,"Mainland","Chake Chake_Kilindi",71,3580,NA,46,31

@@ -1,0 +1,270 @@
+"DW","month","year","ward_match","dogs_vaccinated","total_dog_estimate"
+"Wete_Kipangani",94,2017,1,6,6
+"Wete_Kipangani",115,2019,1,14,14
+"Wete_Mtambwe Kaskazini",102,2018,2,59,66
+"Wete_Mtambwe Kaskazini",116,2019,2,82,98
+"Wete_Fundo",94,2017,3,22,36
+"Wete_Fundo",102,2018,3,11,19
+"Wete_Fundo",116,2019,3,37,44
+"Wete_Mchanga Mdogo",101,2018,4,19,20
+"Wete_Kambini",116,2019,5,5,8
+"Wete_Kojani",116,2019,6,1,4
+"Wete_Ole",93,2017,7,94,99
+"Wete_Ole",101,2018,7,49,54
+"Wete_Ole",115,2019,7,53,61
+"Wete_Kangagani",116,2019,8,5,5
+"Wete_Kiuyu Minungwini",102,2018,9,11,14
+"Wete_Piki",102,2018,10,25,26
+"Wete_Piki",116,2019,10,22,25
+"Wete_Kisiwani",102,2018,11,18,26
+"Wete_Kisiwani",116,2019,11,15,17
+"Wete_Gando",102,2018,12,31,43
+"Wete_Gando",116,2019,12,27,42
+"Wete_Ukunjwi",94,2017,13,23,37
+"Wete_Ukunjwi",102,2018,13,14,15
+"Wete_Ukunjwi",116,2019,13,22,37
+"Wete_Pandani",94,2017,14,0,36
+"Wete_Pandani",102,2018,14,78,83
+"Wete_Pandani",116,2019,14,65,91
+"Wete_Shengejuu",94,2017,15,9,9
+"Wete_Shengejuu",102,2018,15,23,23
+"Wete_Shengejuu",116,2019,15,10,12
+"Wete_Bopwe",116,2019,16,12,15
+"Wete_Utaani",102,2018,17,3,3
+"Wete_Utaani",116,2019,17,3,3
+"Wete_Mtambwe Kusini",116,2019,18,5,8
+"Wete_Selem",94,2017,19,3,4
+"Wete_Selem",102,2018,19,4,4
+"Wete_Selem",116,2019,19,4,4
+"Wete_Kinyikani",94,2017,20,6,14
+"Wete_Kinyikani",102,2018,20,14,14
+"Wete_Kinyikani",116,2019,20,17,18
+"Wete_Chwale",94,2017,21,12,12
+"Wete_Chwale",116,2019,21,34,35
+"Wete_Maziwani",94,2017,22,5,6
+"Wete_Maziwani",102,2018,22,4,5
+"Wete_Maziwani",116,2019,22,3,3
+"Wete_Mpambani",116,2019,23,7,8
+"Wete_Mjini Ole",93,2017,24,14,18
+"Wete_Mjini Ole",101,2018,24,18,18
+"Wete_Mjini Ole",115,2019,24,21,21
+"Wete_Kiuyu Kigongoni",94,2017,25,2,2
+"Wete_Kiuyu Kigongoni",116,2019,25,8,21
+"Wete_Mzambarauni Takao",94,2017,26,1,8
+"Wete_Mzambarauni Takao",102,2018,26,21,27
+"Wete_Mzambarauni Takao",116,2019,26,8,10
+"Wete_Junguni",94,2017,27,24,66
+"Wete_Junguni",102,2018,27,35,67
+"Wete_Kiungoni",94,2017,28,30,32
+"Wete_Kiungoni",102,2018,28,5,5
+"Wete_Kiungoni",116,2019,28,14,14
+"Wete_Pembeni",94,2017,29,9,23
+"Wete_Pembeni",116,2019,29,21,21
+"Wete_Kizimbani",94,2017,30,0,5
+"Wete_Kizimbani",102,2018,30,8,13
+"Wete_Kizimbani",116,2019,30,11,14
+"Wete_Limbani",94,2017,31,15,31
+"Wete_Limbani",102,2018,31,19,25
+"Wete_Limbani",116,2019,31,8,20
+"Wete_Jadida",102,2018,32,1,1
+"Wete_Jadida",116,2019,32,3,6
+"Micheweni_Micheweni",116,2019,33,11,20
+"Micheweni_Msuka Mashariki",94,2017,34,22,23
+"Micheweni_Msuka Mashariki",102,2018,34,11,13
+"Micheweni_Msuka Mashariki",116,2019,34,14,14
+"Micheweni_Kinowe",94,2017,35,7,10
+"Micheweni_Kinowe",116,2019,35,9,22
+"Micheweni_Tumbe Mashariki",116,2019,36,23,27
+"Micheweni_Mgogoni",94,2017,37,35,56
+"Micheweni_Mgogoni",102,2018,37,37,48
+"Micheweni_Mgogoni",116,2019,37,7,7
+"Micheweni_Shumba Viamboni",94,2017,38,31,34
+"Micheweni_Shumba Viamboni",116,2019,38,2,2
+"Micheweni_Finya",94,2017,39,26,27
+"Micheweni_Finya",102,2018,39,10,10
+"Micheweni_Finya",116,2019,39,27,40
+"Micheweni_Konde",94,2017,40,2,3
+"Micheweni_Konde",102,2018,40,41,64
+"Micheweni_Konde",116,2019,40,60,64
+"Micheweni_Wingwi Mapofu",94,2017,41,12,19
+"Micheweni_Wingwi Mapofu",102,2018,41,19,20
+"Micheweni_Wingwi Mapofu",116,2019,41,17,25
+"Micheweni_Kiuyu Mbuyuni",94,2017,42,5,13
+"Micheweni_Kiuyu Mbuyuni",102,2018,42,6,6
+"Micheweni_Makangale",94,2017,43,34,34
+"Micheweni_Makangale",102,2018,43,8,14
+"Micheweni_Makangale",116,2019,43,26,40
+"Micheweni_Wingwi Njuguni",94,2017,44,13,13
+"Micheweni_Wingwi Njuguni",116,2019,44,6,7
+"Micheweni_Shumba Mjini",94,2017,45,0,5
+"Micheweni_Shumba Mjini",116,2019,45,13,32
+"Micheweni_Majenzi",94,2017,46,4,8
+"Micheweni_Msuka Magharibi",94,2017,48,46,54
+"Micheweni_Msuka Magharibi",102,2018,48,4,5
+"Micheweni_Msuka Magharibi",116,2019,48,22,24
+"Micheweni_Chimba",94,2017,49,23,56
+"Micheweni_Chimba",116,2019,49,11,11
+"Micheweni_Tumbe Magharibi",94,2017,50,37,48
+"Micheweni_Tumbe Magharibi",102,2018,50,42,44
+"Micheweni_Sizini",94,2017,51,0,16
+"Micheweni_Sizini",102,2018,51,8,22
+"Micheweni_Sizini",116,2019,51,8,14
+"Micheweni_Kinyasini",102,2018,52,23,27
+"Micheweni_Kinyasini",116,2019,52,13,28
+"Micheweni_Mihogoni",102,2018,53,17,17
+"Micheweni_Kifundi",94,2017,54,38,48
+"Micheweni_Kifundi",102,2018,54,9,17
+"Micheweni_Kifundi",116,2019,54,27,42
+"Micheweni_Maziwa Ng'ombe",94,2017,55,0,2
+"Micheweni_Maziwa Ng'ombe",116,2019,55,15,19
+"Micheweni_Tondooni",94,2017,56,20,62
+"Micheweni_Tondooni",116,2019,56,10,18
+"Micheweni_Mtemani",94,2017,57,4,9
+"Micheweni_Mtemani",102,2018,57,9,16
+"Micheweni_Mtemani",116,2019,57,5,7
+"Micheweni_Wingwi Mjananza",116,2019,58,9,9
+"Chake Chake_Chanjaani",93,2017,60,9,10
+"Chake Chake_Chanjaani",101,2018,60,33,36
+"Chake Chake_Chanjaani",115,2019,60,25,29
+"Chake Chake_Wawi",93,2017,61,87,96
+"Chake Chake_Wawi",101,2018,61,80,86
+"Chake Chake_Wawi",116,2019,61,67,68
+"Chake Chake_Pujini",93,2017,62,33,34
+"Chake Chake_Pujini",101,2018,62,14,14
+"Chake Chake_Pujini",116,2019,62,9,9
+"Chake Chake_Ziwani",93,2017,63,28,29
+"Chake Chake_Ziwani",101,2018,63,44,45
+"Chake Chake_Ziwani",115,2019,63,39,40
+"Chake Chake_Ndagoni",93,2017,64,29,31
+"Chake Chake_Ndagoni",101,2018,64,31,45
+"Chake Chake_Ndagoni",115,2019,64,15,15
+"Chake Chake_Kwale",93,2017,65,1,3
+"Chake Chake_Kwale",101,2018,65,5,7
+"Chake Chake_Kwale",115,2019,65,13,13
+"Chake Chake_Vitongoji",101,2018,66,30,30
+"Chake Chake_Vitongoji",115,2019,66,69,73
+"Chake Chake_Ng'ambwa",93,2017,67,30,32
+"Chake Chake_Ng'ambwa",101,2018,67,47,48
+"Chake Chake_Ng'ambwa",115,2019,67,30,30
+"Chake Chake_Shungi",93,2017,68,37,39
+"Chake Chake_Shungi",101,2018,68,12,18
+"Chake Chake_Shungi",115,2019,68,36,37
+"Chake Chake_Chonga",93,2017,69,30,31
+"Chake Chake_Chonga",101,2018,69,26,27
+"Chake Chake_Chonga",115,2019,69,7,7
+"Chake Chake_Mgelema",93,2017,70,2,2
+"Chake Chake_Mgelema",101,2018,70,1,6
+"Chake Chake_Kilindi",93,2017,71,6,10
+"Chake Chake_Kilindi",115,2019,71,26,34
+"Chake Chake_Tibirinzi",93,2017,72,23,24
+"Chake Chake_Tibirinzi",101,2018,72,4,4
+"Chake Chake_Tibirinzi",115,2019,72,55,60
+"Chake Chake_Chachani",93,2017,73,2,2
+"Chake Chake_Wara",101,2018,74,7,13
+"Chake Chake_Wara",116,2019,74,7,8
+"Chake Chake_Mvumoni",93,2017,75,21,23
+"Chake Chake_Mvumoni",101,2018,75,33,33
+"Chake Chake_Mvumoni",115,2019,75,25,25
+"Chake Chake_Matale",93,2017,76,38,40
+"Chake Chake_Matale",101,2018,76,80,80
+"Chake Chake_Matale",115,2019,76,59,63
+"Chake Chake_Wesha",101,2018,77,16,16
+"Chake Chake_Wesha",115,2019,77,22,23
+"Chake Chake_Uwandani",93,2017,78,14,18
+"Chake Chake_Uwandani",101,2018,78,24,26
+"Chake Chake_Uwandani",115,2019,78,33,36
+"Chake Chake_Madungu",93,2017,79,4,4
+"Chake Chake_Madungu",115,2019,79,12,12
+"Chake Chake_Mgogoni",93,2017,80,66,74
+"Chake Chake_Mgogoni",101,2018,80,37,45
+"Chake Chake_Mgogoni",115,2019,80,35,37
+"Chake Chake_Dodo",101,2018,81,39,40
+"Chake Chake_Dodo",115,2019,81,11,12
+"Chake Chake_Mbuzini",93,2017,82,6,6
+"Chake Chake_Mbuzini",101,2018,82,0,16
+"Chake Chake_Mbuzini",115,2019,82,34,35
+"Chake Chake_Michungwani",93,2017,83,1,1
+"Chake Chake_Kibokoni",101,2018,84,18,18
+"Chake Chake_Kibokoni",115,2019,84,35,35
+"Chake Chake_Kichungwani",101,2018,85,32,32
+"Chake Chake_Kichungwani",115,2019,85,3,3
+"Chake Chake_Msingini",116,2019,86,19,19
+"Chake Chake_Mkoroshoni",116,2019,87,1,1
+"Chake Chake_Mfikiwa",93,2017,88,5,5
+"Chake Chake_Mfikiwa",101,2018,88,6,6
+"Mkoani_Ng'ombeni",93,2017,89,7,7
+"Mkoani_Ng'ombeni",101,2018,89,5,7
+"Mkoani_Ng'ombeni",115,2019,89,15,19
+"Mkoani_Makombeni",101,2018,90,11,11
+"Mkoani_Makombeni",115,2019,90,1,3
+"Mkoani_Shidi",93,2017,92,4,4
+"Mkoani_Shidi",101,2018,92,8,8
+"Mkoani_Shidi",116,2019,92,4,12
+"Mkoani_Mkanyageni",93,2017,93,26,26
+"Mkoani_Mkanyageni",101,2018,93,14,16
+"Mkoani_Mkanyageni",116,2019,93,24,31
+"Mkoani_Michenzani",93,2017,94,13,13
+"Mkoani_Michenzani",101,2018,94,13,15
+"Mkoani_Michenzani",116,2019,94,6,6
+"Mkoani_Chokocho",93,2017,95,10,10
+"Mkoani_Chokocho",101,2018,95,6,8
+"Mkoani_Chokocho",115,2019,95,25,27
+"Mkoani_Kangani",93,2017,97,70,70
+"Mkoani_Kangani",101,2018,97,16,18
+"Mkoani_Kangani",115,2019,97,11,12
+"Mkoani_Kengeja",93,2017,98,45,45
+"Mkoani_Kengeja",101,2018,98,43,48
+"Mkoani_Kengeja",115,2019,98,43,48
+"Mkoani_Muambe",101,2018,99,20,23
+"Mkoani_Muambe",115,2019,99,11,11
+"Mkoani_Kiwani",101,2018,100,6,6
+"Mkoani_Kiwani",115,2019,100,11,12
+"Mkoani_Mtambile",93,2017,101,21,21
+"Mkoani_Mtambile",101,2018,101,1,1
+"Mkoani_Mtambile",115,2019,101,6,7
+"Mkoani_Mizingani",93,2017,102,58,59
+"Mkoani_Mizingani",101,2018,102,24,25
+"Mkoani_Mizingani",115,2019,102,27,28
+"Mkoani_Ngwachani",93,2017,103,33,33
+"Mkoani_Ngwachani",101,2018,103,27,36
+"Mkoani_Ngwachani",115,2019,103,19,23
+"Mkoani_Chambani",93,2017,104,22,22
+"Mkoani_Chambani",101,2018,104,14,16
+"Mkoani_Chambani",115,2019,104,23,26
+"Mkoani_Wambaa",93,2017,105,4,4
+"Mkoani_Wambaa",101,2018,105,1,1
+"Mkoani_Mbuguani",93,2017,106,21,21
+"Mkoani_Mbuguani",101,2018,106,5,6
+"Mkoani_Mbuguani",115,2019,106,20,20
+"Mkoani_Uweleni",93,2017,107,20,20
+"Mkoani_Uweleni",101,2018,107,6,8
+"Mkoani_Uweleni",115,2019,107,5,5
+"Mkoani_Mtangani",93,2017,108,9,9
+"Mkoani_Mtangani",101,2018,108,6,9
+"Mkoani_Mtangani",115,2019,108,7,7
+"Mkoani_Ukutini",101,2018,109,6,6
+"Mkoani_Ukutini",115,2019,109,8,8
+"Mkoani_Chumbageni",93,2017,110,29,29
+"Mkoani_Chumbageni",101,2018,110,25,40
+"Mkoani_Chumbageni",115,2019,110,20,41
+"Mkoani_Mbuyuni",93,2017,111,14,14
+"Mkoani_Mbuyuni",101,2018,111,7,9
+"Mkoani_Stahabu",93,2017,112,1,1
+"Mkoani_Stahabu",101,2018,112,15,15
+"Mkoani_Stahabu",116,2019,112,22,29
+"Mkoani_Kuukuu",101,2018,113,8,8
+"Mkoani_Mjimbini",93,2017,114,38,38
+"Mkoani_Mjimbini",101,2018,114,20,27
+"Mkoani_Mjimbini",115,2019,114,20,28
+"Mkoani_Jombwe",101,2018,116,14,14
+"Mkoani_Kendwa",101,2018,117,9,9
+"Mkoani_Kendwa",115,2019,117,22,24
+"Mkoani_Minazini",101,2018,118,12,12
+"Mkoani_Minazini",115,2019,118,10,12
+"Mkoani_Mgagadu",101,2018,119,15,15
+"Mkoani_Mgagadu",115,2019,119,3,3
+"Mkoani_Mkungu",93,2017,120,62,62
+"Mkoani_Mkungu",101,2018,120,12,13
+"Mkoani_Mkungu",115,2019,120,14,24
+"Mkoani_Changaweni",101,2018,121,6,10
+"Mkoani_Changaweni",115,2019,121,4,4

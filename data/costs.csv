@@ -1,0 +1,12 @@
+﻿Intervention,variable,dollars,unit
+MDV,vaccine,0.65,dog vaccinated
+MDV,consumables,0.05,dog vaccinated
+MDV,stationary,2.61,CP
+MDV,advertising,7.45,Campaign day 
+MDV,transport,7.45,CP
+MDV,assistant,2.18,CP
+MDV,Human resource,76.7,"CP (2 LFO salaries + per diem, 1 CAHW allowance)"
+PEP,consultation,10.9,patient
+PEP,vial,10.98,vial
+PEP,hw,0.35,injection
+PEP,pep_consumables,0.05,injection

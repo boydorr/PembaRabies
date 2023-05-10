@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2022-07-19 18:43:21
+[georeference]
+nrows=69
+ncols=35
+xmin=562341.36384246
+ymin=9393338.27680598
+xmax=597341.36384246
+ymax=9462338.27680598
+projection=+proj=utm +zone=37 +south +ellps=clrk80 +units=m +no_defs
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=0
+maxvalue=22355.4137701358
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=TZA_popmap10adj_v2b

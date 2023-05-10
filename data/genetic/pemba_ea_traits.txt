@@ -1,0 +1,272 @@
+trait	location0	location1	location2	host1	host2	date
+JX473838_2009_NAM	External	Namibia	South	dog	dog	2009
+JX473839_2009_NAM	External	Namibia	South	dog	dog	2009
+JX473840_2009_NAM	External	Namibia	South	dog	dog	2009
+JX473841_2009_NAM	External	Namibia	South	dog	dog	2009
+KT336432_2012_ZAF	External	South Africa	South	dog	dog	2012
+KT336433_1991_ZWE	External	Zimbabwe	South	dog	dog	1991
+KT336434_1992_ZWE	External	Zimbabwe	South	dog	dog	1992
+KT336435_1993_ZWE	External	Zimbabwe	South	dog	dog	1993
+KT336436_2012_ZAF	External	South Africa	South	dog	dog	2012
+KT336437_2012_ZAF	External	South Africa	South	dog	dog	2012
+KX148103_1981_ZAF	External	South Africa	South	dog	dog	1981
+KX148203_1986_MOZ	External	Mozambique	South	dog	dog	1986
+KX148204_1992_NAM	External	Namibia	South	dog	dog	1992
+KX148205_1994_RWA	External	Rwanda	North	dog	dog	1994
+KX148207_2014_KEN	External	Kenya	North	dog	dog	2014
+KX148208_1992_CAF	External	Central African Republic	North	dog	dog	1992
+LC029889_2009_UGA	External	Uganda	North	dog	dog	2009
+MG458318_2008_ZAF	External	South Africa	South	dog	dog	2008
+MN726814_20-05-2018_KEN	External	Kenya	North	dog	dog	2018.380822
+MN726816_07-02-2018_KEN	External	Kenya	North	dog	dog	2018.10137
+MN726821_08-07-2018_KEN	External	Kenya	North	dog	dog	2018.515068
+MN726831_17-05-2018_KEN	External	Kenya	North	dog	dog	2018.372603
+MT454631_2015_ZAF	External	South Africa	South	dog	dog	2015
+MT454632_2015_ZAF	External	South Africa	South	dog	dog	2015
+MT454633_2015_ZAF	External	South Africa	South	dog	dog	2015
+MT454634_2015_ZAF	External	South Africa	South	dog	dog	2015
+MT454635_2015_ZAF	External	South Africa	South	dog	dog	2015
+MT454636_2016_ZAF	External	South Africa	South	dog	dog	2016
+MT454637_2016_ZAF	External	South Africa	South	dog	dog	2016
+MT454638_2016_ZAF	External	South Africa	South	dog	dog	2016
+MT454639_2016_ZAF	External	South Africa	South	dog	dog	2016
+MT454640_2016_ZAF	External	South Africa	South	dog	dog	2016
+MT454641_2016_ZAF	External	South Africa	South	dog	dog	2016
+MT454642_2016_ZAF	External	South Africa	South	dog	dog	2016
+MT454643_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454644_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454645_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454646_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454647_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454648_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454649_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454650_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454651_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454652_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454653_2017_ZAF	External	South Africa	South	dog	dog	2017
+MT454654_2017_ZAF	External	South Africa	South	dog	dog	2017
+PM015_09-11-2016_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2016.855191
+PM018_17-02-2017_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2017.128767
+PM019_05-02-2017_Pemba.fasta	Pemba	Kaskazini	Kaskazini	livestock:goat	livestock	2017.09589
+PM023_12-05-2017_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2017.358904
+PM024_14-05-2017_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2017.364384
+PM025_16-05-2017_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2017.369863
+RAB12001_18-05-2012_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2012.377049
+RAB12002_15-06-2012_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2012.453552
+RAB12005_09-05-2012_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2012.352459
+RAB12039_24-08-2011_Pemba.fasta	Pemba	Kaskazini	Kaskazini	livestock:cow	livestock	2011.643836
+RAB16024_21-09-2016_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2016.721311
+RAB16025_21-09-2016_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2016.721311
+RAB16026_16-09-2016_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2016.70765
+RAB16027_07-10-2016_Pemba.fasta	Pemba	Kusini	Kusini	dog	dog	2016.765027
+RAB16028_04-10-2016_Pemba.fasta	Pemba	Kaskazini	Kaskazini	dog	dog	2016.756831
+RAB16029_05-10-2016_Pemba.fasta	Pemba	Kusini	Kusini	dog	dog	2016.759563
+RAB16031_15-09-2016_Pemba.fasta	Pemba	Kusini	Kusini	dog	dog	2016.704918
+RAB16033_07-10-2016_Pemba.fasta	Pemba	Kusini	Kusini	dog	dog	2016.765027
+RV2483_28-09-2008_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2008.740437
+RV2485_28-09-2008_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2008.740437
+RV2489_17-01-2009_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2009.043836
+RV2490_07-08-2008_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2008.598361
+RV2491_02-08-2008_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2008.584699
+RV2492_03-11-2007_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2007.838356
+RV2493_31-07-2008_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2008.579235
+RV2495_12-07-2008_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2008.527322
+RV2497_22-06-2007_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2007.471233
+RV2498_06-08-2008_Ulanga.fasta	Mainland	Morogoro	Morogoro	dog	dog	2008.595628
+RV2499_05-08-2008_Ulanga.fasta	Mainland	Morogoro	Morogoro	dog	dog	2008.592896
+RV2500_23-11-2008_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2008.893443
+RV2501_14-02-2004_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2004.120219
+RV2502_18-04-2004_Ngorongoro.fasta	Mainland	Arusha	Arusha	livestock:cow	livestock	2004.295082
+RV2503_15-02-2009_Serengeti.fasta	Mainland	Mara	Mara	wildlife:wildcat	wildlife	2009.123288
+RV2504_18-06-2003_Ngorongoro.fasta	Mainland	Arusha	Arusha	dog	dog	2003.460274
+RV2767_12-09-2009_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2009.69589
+RV2770_03-05-2010_Temeke.fasta	Mainland	Dar	Dar	dog	dog	2010.334247
+RV2771_27-05-2010_Mufindi.fasta	Mainland	Iringa	Iringa	dog	dog	2010.4
+RV2772_02-08-2010_Kibaha.fasta	Mainland	Pwani	Pwani	dog	dog	2010.583562
+RV2773_26-10-2010_Kibaha.fasta	Mainland	Pwani	Pwani	dog	dog	2010.816438
+RV2774_02-11-2010_Ilala.fasta	Mainland	Dar	Dar	dog	dog	2010.835616
+RV2775_26-11-2010_Mufindi.fasta	Mainland	Iringa	Iringa	dog	dog	2010.90137
+RV2776_15-12-2010_Pemba.fasta	Pemba	Kusini	Kusini	dog	dog	2010.953425
+RV2777_15-12-2010_Pemba.fasta	Pemba	Kusini	Kusini	dog	dog	2010.953425
+RV2778_15-12-2010_Pemba.fasta	Pemba	Kusini	Kusini	dog	dog	2010.953425
+RV2780_07-02-2011_Nachingwea.fasta	Mainland	Lindi	Lindi	dog	dog	2011.10137
+RV2782_11-02-2011_Zanzibar.fasta	Zanzibar	Zanzibar	Zanzibar	dog	dog	2011.112329
+RV2783_28-02-2011_Newala.fasta	Mainland	Mtwara	Mtwara	dog	dog	2011.158904
+RV2784_28-02-2011_Nachingwea.fasta	Mainland	Lindi	Lindi	dog	dog	2011.158904
+RV2786_20-06-2010_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2010.465753
+RV2788_05-08-2010_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2010.591781
+RV2789_22-10-2010_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2010.805479
+RV2790_01-11-2010_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2010.832877
+RV2791_08-11-2010_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2010.852055
+RV2792_07-01-2011_Serengeti.fasta	Mainland	Mara	Mara	wildlife:jackel	wildlife	2011.016438
+RV2793_02-01-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.00274
+RV2794_12-01-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.030137
+RV2795_16-01-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.041096
+RV2796_19-01-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.049315
+RV2797_30-01-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.079452
+RV2798_31-01-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.082192
+RV2799_29-01-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.076712
+RV2800_17-02-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.128767
+RV2806_23-07-2009_Tz.fasta	Pemba	Unknown	Unknown	dog	dog	2009.556164
+RV2807_03-10-2010_Nachingwea.fasta	Mainland	Lindi	Lindi	dog	dog	2010.753425
+RV2808_04-04-2010_Morogoro.fasta	Mainland	Morogoro	Morogoro	dog	dog	2010.254795
+RV2809_16-04-2010_Morogoro.fasta	Mainland	Morogoro	Morogoro	dog	dog	2010.287671
+RV2810_23-04-2010_Morogoro.fasta	Mainland	Morogoro	Morogoro	dog	dog	2010.306849
+RV2811_24-04-2010_Morogoro.fasta	Mainland	Morogoro	Morogoro	dog	dog	2010.309589
+RV2813_29-04-2010_Morogoro.fasta	Mainland	Morogoro	Morogoro	dog	dog	2010.323288
+RV2814_17-05-2010_Ulanga.fasta	Mainland	Morogoro	Morogoro	livestock:pig	livestock	2010.372603
+RV2815_27-09-2010_Kilombero.fasta	Mainland	Morogoro	Morogoro	livestock:cow	livestock	2010.736986
+RV2816_28-09-2010_Kilombero.fasta	Mainland	Morogoro	Morogoro	livestock:cow	livestock	2010.739726
+RV2817_26-11-2010_Pemba.fasta	Pemba	Kusini	Kusini	dog	dog	2010.90137
+RV2858_21-02-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2011.139726
+RV2859_01-03-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.161644
+RV2861_11-05-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.356164
+RV2862_11-05-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.356164
+RV2863_19-04-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.29589
+RV2866_15-04-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2011.284932
+RV2867_22-05-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.386301
+RV2868_06-06-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.427397
+RV2870_01-06-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.413699
+RV2871_17-06-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.457534
+RV2873_20-06-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.465753
+RV2875_29-06-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.490411
+RV2877_30-06-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2011.493151
+RV2878_03-07-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.50137
+RV2879_10-06-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.438356
+RV2880_02-07-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.49863
+RV2881_07-07-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.512329
+RV2882_23-07-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.556164
+RV2883_23-07-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.556164
+RV2884_21-07-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.550685
+RV2885_24-07-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2011.558904
+RV2886_21-07-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2011.550685
+RV2887_25-07-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.561644
+RV2888_29-07-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.572603
+RV2889_04-08-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.589041
+RV2890_03-08-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.586301
+RV2891_10-08-2011_Serengeti.fasta	Mainland	Mara	Mara	wildlife:civet	wildlife	2011.605479
+RV2892_12-08-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.610959
+RV2893_01-08-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.580822
+RV2894_15-08-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.619178
+RV2895_18-08-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.627397
+RV2896_19-08-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.630137
+RV2897_02-09-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.668493
+RV2898_19-09-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.715068
+RV2899_23-09-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.726027
+RV2900_28-09-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.739726
+RV2901_22-09-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.723288
+RV2903_05-10-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.758904
+RV2906_09-09-2011_Serengeti.fasta	Mainland	Mara	Mara	cat	cat	2011.687671
+RV2907_16-10-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.789041
+RV2909_12-11-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.863014
+RV2932_11-06-2007_Same.fasta	Mainland	Kilimanjaro	Kilimanjaro	dog	dog	2007.441096
+RV2934_15-06-2007_Dodoma.fasta	Mainland	Dodoma	Dodoma	dog	dog	2007.452055
+RV2949_17-07-2009_Dodoma.fasta	Mainland	Dodoma	Dodoma	dog	dog	2009.539726
+RV3047_10-08-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.606557
+RV3048_17-09-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:sheep	livestock	2012.710383
+RV3049_04-10-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.756831
+RV3050_02-09-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.669399
+RV3051_13-10-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.781421
+RV3052_13-11-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.86612
+RV3053_10-11-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.857923
+RV3057_08-12-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.934426
+RV3058_18-01-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.046575
+RV3059_11-01-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.027397
+RV3060_04-01-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.008219
+RV3061_08-01-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.019178
+RV3063_08-01-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.019178
+RV3064_02-01-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.00274
+RV3066_22-02-2013_Serengeti.fasta	Mainland	Mara	Mara	cat	cat	2013.142466
+RV3067_25-02-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.150685
+RV3068_11-04-2013_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2013.273973
+RV3070_27-02-2013_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2013.156164
+RV3071_13-04-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.279452
+RV3072_10-04-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.271233
+RV3073_18-02-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.131507
+RV3074_01-02-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.084932
+RV3075_31-01-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.082192
+RV3078_26-05-2013_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2013.39726
+RV3079_18-07-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.542466
+RV3080_17-07-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.539726
+RV3082_03-09-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.671233
+RV3084_22-08-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.638356
+RV3085_06-09-2013_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2013.679452
+RV3086_04-09-2013_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2013.673973
+RV3088_25-04-2013_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2013.312329
+RV3090_28-11-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2011.906849
+RV3091_05-12-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.926027
+RV3092_16-12-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.956164
+RV3093_22-12-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.972603
+RV3094_21-12-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.969863
+RV3096_30-01-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.079235
+RV3097_19-01-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.04918
+RV3098_26-01-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.068306
+RV3099_19-01-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2012.04918
+RV3100_19-02-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.13388
+RV3101_06-03-2012_Serengeti.fasta	Mainland	Mara	Mara	wildlife:jackel	wildlife	2012.177596
+RV3102_08-03-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2012.18306
+RV3103_10-12-2011_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2011.939726
+RV3104_22-12-2011_Serengeti.fasta	Mainland	Mara	Mara	livestock:sheep	livestock	2011.972603
+RV3105_22-03-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.221311
+RV3107_09-04-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.270492
+RV3109_12-04-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.278689
+RV3110_30-04-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.327869
+RV3111_29-04-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.325137
+RV3113_06-05-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.344262
+RV3114_06-05-2012_Serengeti.fasta	Mainland	Mara	Mara	wildlife:jackel	wildlife	2012.344262
+RV3115_11-05-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.357923
+RV3116_07-05-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.346995
+RV3117_12-05-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.360656
+RV3119_17-05-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.374317
+RV3121_28-05-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.404372
+RV3122_30-03-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.243169
+RV3123_26-04-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.31694
+RV3124_07-05-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.346995
+RV3125_06-06-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2012.428962
+RV3127_11-06-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.442623
+RV3128_16-06-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:donkey	livestock	2012.456284
+RV3129_25-06-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:sheep	livestock	2012.480874
+RV3130_28-06-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2012.489071
+RV3131_07-07-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.513661
+RV3132_02-04-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.251366
+RV3133_04-07-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.505464
+RV3134_19-07-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.546448
+RV3135_19-07-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.546448
+RV3136_16-07-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2012.538251
+RV3137_21-07-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2012.551913
+RV3138_16-07-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.538251
+RV3139_07-07-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.513661
+RV3140_27-07-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.568306
+RV3145_08-08-2012_Serengeti.fasta	Mainland	Mara	Mara	wildlife:hyena	wildlife	2012.601093
+RV3146_26-05-2012_Serengeti.fasta	Mainland	Mara	Mara	wildlife:civet	wildlife	2012.398907
+RV3149_23-01-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.060109
+RV3150_24-03-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.226776
+RV3151_03-01-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2012.005464
+RV3152_31-05-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.412568
+RV3153_23-01-2012_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2012.060109
+RV3154_29-04-2012_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2012.325137
+RV3229_05-01-2015_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2015.010959
+RV3240_22-05-2015_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2015.386301
+RV3253_04-06-2015_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2015.421918
+SD557_19-01-2016_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2016.04918
+SD575_23-01-2016_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2016.060109
+SD577_30-09-2015_Serengeti.fasta	Mainland	Mara	Mara	wildlife:jackel	wildlife	2015.745205
+SD577sg_30-09-2015_Serengeti.fasta	Mainland	Mara	Mara	wildlife:jackel	wildlife	2015.745205
+SD601_17-12-2015_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2015.958904
+SD620_20-02-2016_Serengeti.fasta	Mainland	Mara	Mara	livestock:cow	livestock	2016.136612
+SD622_15-02-2016_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2016.122951
+SD635_07-06-2016_Serengeti.fasta	Mainland	Mara	Mara	cat	cat	2016.431694
+SD641_05-04-2017_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2017.257534
+SD643_14-05-2017_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2017.364384
+SD645_30-12-2016_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2016.994536
+SD647_18-08-2016_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2016.628415
+SD648_31-03-2017_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2017.243836
+SD670_11-04-2017_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2017.273973
+SD678_06-10-2016_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2016.762295
+SD681_08-09-2017_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2017.684932
+SD706_2017_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2017
+SD709_08-09-2017_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2017.684932
+SD714_14-04-2017_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2017.282192
+SUB1637_20-09-2009_Serengeti.fasta	Mainland	Mara	Mara	livestock:goat	livestock	2009.717808
+SUB7087_19-10-2001_Temeke.fasta	Mainland	Dar	Dar	dog	dog	2001.79726
+SUB7101_24-09-2015_Serengeti.fasta	Mainland	Mara	Mara	dog	dog	2015.728767
